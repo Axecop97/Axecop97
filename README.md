@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eldar
-- 👀 I’m interested in ... LGBT
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... python and django framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://steamcommunity.com/id/axecop9/
